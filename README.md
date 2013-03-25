@@ -2,7 +2,7 @@
 ## Python y Arduino
 Para usar arduino con python, seguir los siguientes pasos:
 - Cargar prototype.pde (que esta en APIarduino) en el microcontrolador de tu Arduino
-- Importar la libreria Arduino en tu script python, mirar ejemplo:
+- Importar la libreria Arduino en tu script python (mirar ejemplo)
 
 ###Ejemplo
 	from APIarduino.arduino import Arduino
