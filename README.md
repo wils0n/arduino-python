@@ -27,4 +27,9 @@ Para usar arduino con python, seguir los siguientes pasos:
 	    print x
 
 	b.close()
+	##########################
+
+
+**Mayor información**
+[Python Arduino Prototyping API V2](https://github.com/vascop/Python-Arduino-Proto-API-v2).
 
